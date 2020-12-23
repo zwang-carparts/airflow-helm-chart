@@ -507,7 +507,7 @@ dags:
   git:
     ##
     ## url to clone the git repository
-    url: https://github.com/marclamberti/airflow-dags.git
+    url: https://github.com/zwang-carparts/airflow.git
     ##
     ## branch name, tag or sha1 to reset to
     ref: master
